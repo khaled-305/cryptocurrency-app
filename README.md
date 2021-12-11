@@ -1,3 +1,15 @@
+# Project Overview & Information
+This is a react crypto currency application with indept details and information about crypto every currency, crypto market, major exchanges, popular crypto news, and much more.
+
+This application was developed using:
+-React.js
+-Redux
+-Ant Design 
+-Chart.js
+-React Router
+-Millify
+-Rapid API (Bing News Search API, CoinRanking API)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
